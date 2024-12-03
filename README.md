@@ -4,5 +4,6 @@
 • More Pyqs will be added here, so don't forget to star this repository.
 ### Other Useful links 
 • Download pyq's directly from Dspace : http://dspace.srmist.edu.in/jspui/
+• Other Semesters : https://github.com/pulkitshringi/SRM-KTR-PYQS
 ### Connect with me on
 • Linkedin | [Pulkit Shringi](https://www.linkedin.com/in/pulkitshringi/)
